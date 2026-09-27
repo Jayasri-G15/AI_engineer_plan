@@ -1,0 +1,602 @@
+Date,Product,Category,Quantity,Price,Revenue,Region
+2025-01-01,Office Chair,Furniture,8.0,3928.66,31429.28,South
+2025-01-04,Office Chair,Furniture,5.0,8699.28,43496.4,South
+2025-01-04,Headphones,Electronics,7.0,2361.0,16527.0,South
+2025-01-04,Notebook Set,Stationery,3.0,352.76,1058.28,South
+2025-01-05,Pen Pack,Stationery,3.0,69.51,208.53,West
+2025-01-05,Pen Pack,Stationery,10.0,149.85,1498.5,North
+2025-01-07,Laptop,Electronics,9.0,66665.78,599992.02,East
+2025-01-08,Bookshelf,Furniture,5.0,4487.23,22436.15,South
+2025-01-09,Smartphone,Electronics,3.0,26032.15,78096.45,North
+2025-01-09,Backpack,Accessories,7.0,2170.49,15193.43,South
+2025-01-10,Backpack,Accessories,1.0,2499.84,2499.84,
+2025-01-12,Notebook Set,Stationery,5.0,344.94,1724.7,South
+2025-01-14,Smartphone,Electronics,4.0,39047.78,156191.12,North
+2025-01-14,Bookshelf,Furniture,9.0,4502.97,40526.73,West
+2025-01-15,Smartphone,Electronics,5.0,19464.2,97321.0,East
+2025-01-16,Headphones,Electronics,10.0,3712.36,37123.6,West
+2025-01-17,Desk,Furniture,7.0,6259.87,43819.09,South
+2025-01-18,Headphones,Electronics,2.0,1943.98,3887.96,East
+2025-01-20,Desk,Furniture,8.0,5812.84,46502.72,South
+2025-01-20,Smartphone,Electronics,10.0,25864.09,258640.9,East
+2025-01-20,Laptop,Electronics,5.0,62038.86,310194.3,North
+2025-01-23,Bookshelf,Furniture,8.0,4968.3,39746.4,West
+2025-01-23,Smartphone,Electronics,1.0,36229.5,36229.5,North
+2025-01-24,Office Chair,Furniture,7.0,8914.45,62401.15,North
+2025-01-24,Notebook Set,Stationery,1.0,271.08,271.08,South
+2025-01-25,Laptop,Electronics,5.0,59846.83,299234.15,West
+2025-01-26,Desk,Furniture,7.0,11049.15,77344.05,West
+2025-01-26,Bookshelf,Furniture,4.0,5960.87,23843.48,South
+2025-01-26,Water Bottle,Accessories,8.0,401.14,3209.12,South
+2025-01-27,Water Bottle,Accessories,8.0,268.2,2145.6,West
+2025-01-27,Desk,Furniture,10.0,7187.14,71871.4,North
+2025-01-27,Smartphone,Electronics,7.0,23257.34,162801.38,West
+2025-01-28,Smartphone,Electronics,1.0,25065.53,25065.53,East
+2025-01-28,Smartphone,Electronics,7.0,20803.6,145625.2,North
+2025-01-28,Backpack,Accessories,5.0,1985.61,9928.05,South
+2025-01-29,Pen Pack,Stationery,3.0,101.32,303.96,West
+2025-01-29,Headphones,Electronics,9.0,4973.93,44765.37,South
+2025-01-30,Backpack,Accessories,2.0,2247.28,4494.56,North
+2025-01-31,Headphones,Electronics,5.0,3380.18,16900.9,East
+2025-02-01,Headphones,Electronics,9.0,1829.37,16464.33,East
+2025-02-01,Pen Pack,Stationery,7.0,92.63,648.41,North
+2025-02-01,Notebook Set,Stationery,5.0,156.94,784.7,North
+2025-02-02,Headphones,Electronics,7.0,2103.85,14726.95,East
+2025-02-02,Pen Pack,Stationery,1.0,79.34,79.34,North
+2025-02-03,Bookshelf,Furniture,2.0,4452.87,8905.74,West
+2025-02-04,Smartphone,Electronics,2.0,17330.75,34661.5,North
+2025-02-04,Headphones,Electronics,1.0,1874.88,1874.88,West
+2025-02-05,Backpack,Accessories,4.0,1796.85,7187.4,South
+2025-02-06,Laptop,Electronics,4.0,47022.01,188088.04,North
+2025-02-07,Backpack,Accessories,4.0,1660.0,6640.0,South
+2025-02-08,Headphones,Electronics,4.0,4440.56,17762.24,West
+2025-02-08,Pen Pack,Stationery,9.0,59.79,538.11,North
+2025-02-08,Notebook Set,Stationery,6.0,253.93,1523.58,South
+2025-02-08,Water Bottle,Accessories,4.0,240.76,963.04,East
+2025-02-09,Water Bottle,Accessories,2.0,224.7,449.4,South
+2025-02-10,Laptop,Electronics,5.0,51469.64,257348.2,South
+2025-02-10,Desk,Furniture,4.0,9445.4,37781.6,East
+2025-02-10,Bookshelf,Furniture,8.0,4795.9,38367.2,West
+2025-02-10,Backpack,Accessories,5.0,2209.99,11049.95,East
+2025-02-11,Water Bottle,Accessories,3.0,566.7,1700.1,East
+2025-02-12,Notebook Set,Stationery,2.0,229.18,458.36,South
+2025-02-12,Pen Pack,Stationery,7.0,114.49,801.43,East
+2025-02-12,Bookshelf,Furniture,3.0,2681.26,8043.78,East
+2025-02-13,Backpack,Accessories,3.0,866.54,2599.62,West
+2025-02-13,Pen Pack,Stationery,2.0,147.8,295.6,South
+2025-02-13,Smartphone,Electronics,3.0,23708.22,71124.66,East
+2025-02-13,Office Chair,Furniture,7.0,6187.18,43310.26,South
+2025-02-14,Notebook Set,Stationery,2.0,155.43,310.86,South
+2025-02-15,Notebook Set,Stationery,2.0,172.99,345.98,West
+2025-02-16,Office Chair,Furniture,8.0,8365.46,66923.68,North
+2025-02-16,Desk,Furniture,6.0,10232.37,61394.22,South
+2025-02-16,Backpack,Accessories,4.0,1439.53,5758.12,West
+2025-02-17,Office Chair,Furniture,5.0,4735.52,23677.6,South
+2025-02-17,Backpack,Accessories,4.0,887.61,3550.44,West
+2025-02-17,Office Chair,Furniture,2.0,6037.96,12075.92,North
+2025-02-17,Office Chair,Furniture,3.0,5735.28,17205.84,West
+2025-02-17,Desk,Furniture,4.0,7830.81,31323.24,South
+2025-02-17,Notebook Set,Stationery,5.0,,566.15,East
+2025-02-19,Pen Pack,Stationery,8.0,81.89,655.12,East
+2025-02-20,Bookshelf,Furniture,9.0,5655.94,50903.46,East
+2025-02-20,Smartphone,Electronics,9.0,33021.0,297189.0,South
+2025-02-20,Bookshelf,Furniture,3.0,2981.6,8944.8,East
+2025-02-20,Pen Pack,Stationery,6.0,141.43,848.58,East
+2025-02-21,Headphones,Electronics,1.0,4858.08,4858.08,South
+2025-02-21,Office Chair,Furniture,5.0,4751.16,23755.8,South
+2025-02-21,Backpack,Accessories,8.0,826.09,6608.72,South
+2025-02-22,Laptop,Electronics,2.0,55617.43,111234.86,North
+2025-02-24,Notebook Set,Stationery,6.0,290.68,1744.08,West
+2025-02-24,Laptop,Electronics,2.0,52762.15,105524.3,South
+2025-02-24,Headphones,Electronics,5.0,1027.07,5135.35,West
+2025-02-24,Smartphone,Electronics,9.0,18722.44,168501.96,South
+2025-02-25,Office Chair,Furniture,6.0,4414.86,26489.16,North
+2025-02-25,Office Chair,Furniture,4.0,4546.15,18184.6,West
+2025-02-26,Desk,Furniture,10.0,8406.43,84064.3,East
+2025-02-27,Desk,Furniture,7.0,6107.1,42749.7,North
+2025-02-28,Desk,Furniture,10.0,6583.11,65831.1,West
+2025-03-01,Office Chair,Furniture,10.0,6188.55,61885.5,West
+2025-03-02,Pen Pack,Stationery,4.0,119.56,478.24,South
+2025-03-02,Office Chair,Furniture,5.0,4143.22,20716.1,East
+2025-03-03,Notebook Set,Stationery,3.0,243.31,729.93,South
+2025-03-03,Office Chair,Furniture,4.0,3852.14,15408.56,North
+2025-03-04,Desk,Furniture,8.0,6735.43,53883.44,North
+2025-03-04,Pen Pack,Stationery,3.0,130.14,390.42,East
+2025-03-04,Office Chair,Furniture,3.0,4802.05,14406.15,West
+2025-03-05,Backpack,Accessories,3.0,1317.01,3951.03,South
+2025-03-06,Notebook Set,Stationery,9.0,134.09,1206.81,North
+2025-03-06,Desk,Furniture,10.0,8734.35,87343.5,South
+2025-03-07,Pen Pack,Stationery,9.0,66.51,598.59,West
+2025-03-07,Smartphone,Electronics,7.0,24329.96,170309.72,East
+2025-03-07,Backpack,Accessories,2.0,1898.24,3796.48,West
+2025-03-07,Water Bottle,Accessories,,210.79,1897.11,West
+2025-03-08,Notebook Set,Stationery,9.0,373.21,3358.89,North
+2025-03-08,Desk,Furniture,3.0,10188.62,30565.86,West
+2025-03-08,Backpack,Accessories,5.0,2157.47,10787.35,North
+2025-03-09,Smartphone,Electronics,3.0,25774.49,77323.47,West
+2025-03-10,Desk,Furniture,2.0,11227.99,22455.98,South
+2025-03-10,Laptop,Electronics,6.0,61380.41,368282.46,South
+2025-03-10,Backpack,Accessories,8.0,1263.82,10110.56,North
+2025-03-10,Desk,Furniture,6.0,10347.0,62082.0,East
+2025-03-11,Pen Pack,Stationery,3.0,55.03,165.09,West
+2025-03-11,Notebook Set,Stationery,1.0,397.75,397.75,South
+2025-03-12,Smartphone,Electronics,10.0,33522.27,335222.7,South
+2025-03-12,Headphones,Electronics,4.0,2532.14,10128.56,South
+2025-03-13,Notebook Set,Stationery,3.0,183.56,550.68,South
+2025-03-13,Desk,Furniture,5.0,6878.85,34394.25,South
+2025-03-15,Desk,Furniture,7.0,5010.95,35076.65,East
+2025-03-16,Office Chair,Furniture,9.0,5766.28,51896.52,South
+2025-03-16,Laptop,Electronics,5.0,61599.35,307996.75,West
+2025-03-17,Laptop,Electronics,1.0,52345.28,52345.28,West
+2025-03-17,Office Chair,Furniture,1.0,6649.14,6649.14,North
+2025-03-18,Pen Pack,Stationery,9.0,98.43,885.87,East
+2025-03-19,Pen Pack,Stationery,2.0,96.89,193.78,East
+2025-03-19,Headphones,Electronics,10.0,4796.5,47965.0,North
+2025-03-20,Headphones,Electronics,7.0,3385.64,23699.48,West
+2025-03-21,Office Chair,Furniture,5.0,4697.35,23486.75,North
+2025-03-21,Smartphone,Electronics,5.0,36110.71,180553.55,North
+2025-03-22,Laptop,Electronics,7.0,58515.11,409605.77,West
+2025-03-22,Water Bottle,Accessories,1.0,469.59,469.59,East
+2025-03-23,Pen Pack,Stationery,8.0,75.92,607.36,South
+2025-03-23,Desk,Furniture,2.0,9582.12,19164.24,East
+2025-03-24,Bookshelf,Furniture,7.0,4927.86,34495.02,East
+2025-03-25,Headphones,Electronics,7.0,1099.15,7694.05,East
+2025-03-25,Desk,Furniture,2.0,9050.79,18101.58,East
+2025-03-27,Pen Pack,Stationery,6.0,94.71,568.26,East
+2025-03-28,Headphones,Electronics,9.0,2953.27,26579.43,North
+2025-03-28,Pen Pack,Stationery,10.0,124.25,1242.5,West
+2025-03-29,Water Bottle,Accessories,8.0,532.81,4262.48,East
+2025-03-29,Headphones,Electronics,2.0,3437.97,6875.94,West
+2025-03-31,Notebook Set,Stationery,3.0,380.18,1140.54,North
+2025-03-31,Water Bottle,Accessories,7.0,530.8,3715.6,East
+2025-04-01,Pen Pack,Stationery,8.0,125.44,1003.52,West
+2025-04-01,Backpack,Accessories,8.0,885.37,7082.96,South
+2025-04-02,Bookshelf,Furniture,1.0,5865.14,5865.14,South
+2025-04-03,Water Bottle,Accessories,3.0,488.47,1465.41,North
+2025-04-06,Pen Pack,Stationery,9.0,88.7,798.3,North
+2025-04-07,Smartphone,Electronics,1.0,35236.95,35236.95,West
+2025-04-07,Water Bottle,Accessories,9.0,286.81,2581.29,South
+2025-04-07,Backpack,Accessories,6.0,1858.48,11150.88,West
+2025-04-07,Office Chair,Furniture,10.0,5606.34,56063.4,West
+2025-04-08,Headphones,Electronics,8.0,4983.88,39871.04,West
+2025-04-08,Laptop,Electronics,8.0,54410.77,435286.16,South
+2025-04-09,Office Chair,Furniture,8.0,5020.75,40166.0,East
+2025-04-10,Bookshelf,Furniture,10.0,5945.54,59455.4,West
+2025-04-12,Headphones,Electronics,10.0,1611.48,16114.8,North
+2025-04-13,Laptop,Electronics,6.0,73001.13,438006.78,West
+2025-04-13,Water Bottle,Accessories,3.0,549.2,1647.6,North
+2025-04-13,Laptop,Electronics,10.0,49571.47,495714.7,South
+2025-04-13,Headphones,Electronics,9.0,4505.84,40552.56,East
+2025-04-15,Bookshelf,Furniture,2.0,5727.79,11455.58,East
+2025-04-15,Desk,Furniture,9.0,8419.72,75777.48,North
+2025-04-15,Bookshelf,Furniture,4.0,3429.65,13718.6,South
+2025-04-16,Office Chair,Furniture,1.0,6635.41,6635.41,East
+2025-04-16,Desk,Furniture,2.0,9041.44,18082.88,South
+2025-04-18,Desk,Furniture,2.0,9263.92,18527.84,South
+2025-04-19,Backpack,Accessories,4.0,2012.01,8048.04,West
+2025-04-19,Water Bottle,Accessories,6.0,285.05,1710.3,West
+2025-04-19,Water Bottle,Accessories,8.0,308.44,2467.52,North
+2025-04-20,Bookshelf,Furniture,8.0,3172.02,25376.16,South
+2025-04-20,Backpack,Accessories,3.0,2029.7,6089.1,West
+2025-04-20,Notebook Set,Stationery,1.0,149.39,149.39,North
+2025-04-20,Office Chair,Furniture,9.0,4991.23,44921.07,East
+2025-04-21,Bookshelf,Furniture,2.0,,5649.22,North
+2025-04-22,Pen Pack,Stationery,8.0,145.06,1160.48,East
+2025-04-22,Notebook Set,Stationery,4.0,248.41,993.64,East
+2025-04-23,Desk,Furniture,1.0,6923.97,6923.97,East
+2025-04-23,Headphones,Electronics,8.0,1612.74,12901.92,East
+2025-04-24,Bookshelf,Furniture,3.0,2767.33,8301.99,North
+2025-04-25,Smartphone,Electronics,1.0,33855.83,33855.83,South
+2025-04-25,Smartphone,Electronics,6.0,36134.34,216806.04,East
+2025-04-25,Headphones,Electronics,2.0,3706.8,7413.6,North
+2025-04-27,Smartphone,Electronics,7.0,39458.44,276209.08,North
+2025-04-28,Laptop,Electronics,6.0,57034.94,342209.64,North
+2025-04-28,Office Chair,Furniture,8.0,5403.88,43231.04,East
+2025-04-29,Pen Pack,Stationery,5.0,95.96,479.8,North
+2025-04-30,Backpack,Accessories,10.0,845.11,8451.1,South
+2025-05-01,Pen Pack,Stationery,5.0,145.4,727.0,East
+2025-05-02,Desk,Furniture,2.0,5334.25,10668.5,West
+2025-05-02,Desk,Furniture,3.0,11899.87,35699.61,South
+2025-05-04,Smartphone,Electronics,10.0,33379.67,333796.7,East
+2025-05-04,Office Chair,Furniture,5.0,8216.48,41082.4,South
+2025-05-04,Water Bottle,Accessories,7.0,274.93,1924.51,North
+2025-05-05,Pen Pack,Stationery,7.0,69.04,483.28,North
+2025-05-05,Pen Pack,Stationery,9.0,64.46,580.14,South
+2025-05-05,Pen Pack,Stationery,10.0,111.03,1110.3,West
+2025-05-05,Laptop,Electronics,9.0,51770.15,465931.35,South
+2025-05-06,Laptop,Electronics,7.0,58168.88,407182.16,South
+2025-05-07,Notebook Set,Stationery,8.0,142.65,1141.2,East
+2025-05-07,Water Bottle,Accessories,2.0,410.2,820.4,East
+2025-05-08,Smartphone,Electronics,9.0,34111.09,306999.81,South
+2025-05-08,Headphones,Electronics,6.0,4735.01,28410.06,East
+2025-05-10,Laptop,Electronics,6.0,68655.6,411933.6,East
+2025-05-10,Headphones,Electronics,7.0,4156.31,29094.17,North
+2025-05-10,Pen Pack,Stationery,2.0,132.21,264.42,West
+2025-05-11,Laptop,Electronics,7.0,45050.74,315355.18,South
+2025-05-11,Desk,Furniture,6.0,5839.89,35039.34,West
+2025-05-12,Pen Pack,Stationery,8.0,96.08,768.64,East
+2025-05-14,Bookshelf,Furniture,9.0,5589.84,50308.56,West
+2025-05-15,Backpack,Accessories,3.0,1663.06,4989.18,North
+2025-05-15,Desk,Furniture,8.0,6501.99,52015.92,East
+2025-05-16,Backpack,Accessories,2.0,1573.14,3146.28,East
+2025-05-18,Headphones,Electronics,7.0,3846.71,26926.97,South
+2025-05-19,Desk,Furniture,5.0,6613.77,33068.85,South
+2025-05-20,Backpack,Accessories,9.0,1639.45,14755.05,North
+2025-05-20,Pen Pack,Stationery,9.0,64.73,582.57,West
+2025-05-20,Desk,Furniture,10.0,6474.41,64744.1,East
+2025-05-20,Bookshelf,Furniture,6.0,5625.59,33753.54,North
+2025-05-20,Office Chair,Furniture,9.0,4126.0,37134.0,West
+2025-05-20,Smartphone,Electronics,6.0,25923.78,155542.68,West
+2025-05-21,Pen Pack,Stationery,2.0,121.35,242.7,South
+2025-05-21,Laptop,Electronics,10.0,70952.02,709520.2,North
+2025-05-21,Water Bottle,Accessories,1.0,340.78,340.78,North
+2025-05-23,Notebook Set,Stationery,5.0,350.47,1752.35,West
+2025-05-23,Pen Pack,Stationery,6.0,66.27,397.62,East
+2025-05-24,Water Bottle,Accessories,5.0,422.32,2111.6,South
+2025-05-25,Notebook Set,Stationery,9.0,258.24,2324.16,South
+2025-05-25,Desk,Furniture,10.0,9059.46,90594.6,West
+2025-05-26,Desk,Furniture,10.0,11112.96,111129.6,East
+2025-05-26,Bookshelf,Furniture,9.0,4522.77,40704.93,West
+2025-05-27,Smartphone,Electronics,2.0,30375.21,60750.42,West
+2025-05-27,Bookshelf,Furniture,1.0,5530.29,5530.29,East
+2025-05-27,Backpack,Accessories,1.0,2240.19,2240.19,West
+2025-05-28,Pen Pack,Stationery,8.0,62.14,497.12,South
+2025-05-28,Office Chair,Furniture,8.0,5243.72,41949.76,East
+2025-05-29,Smartphone,Electronics,7.0,15521.41,108649.87,East
+2025-05-29,Water Bottle,Accessories,5.0,580.96,2904.8,North
+2025-05-29,Smartphone,Electronics,4.0,36662.09,146648.36,West
+2025-05-30,Laptop,Electronics,4.0,53643.15,214572.6,East
+2025-05-30,Notebook Set,Stationery,7.0,333.75,2336.25,South
+2025-05-30,Pen Pack,Stationery,10.0,128.2,1282.0,East
+2025-06-01,Headphones,Electronics,4.0,2319.46,9277.84,West
+2025-06-02,Pen Pack,Stationery,9.0,92.41,831.69,West
+2025-06-03,Headphones,Electronics,3.0,4174.79,12524.37,South
+2025-06-03,Bookshelf,Furniture,10.0,5815.48,58154.8,South
+2025-06-03,Headphones,Electronics,7.0,4093.84,28656.88,South
+2025-06-04,Laptop,Electronics,9.0,48797.49,439177.41,North
+2025-06-06,Water Bottle,Accessories,6.0,389.3,2335.8,East
+2025-06-07,Office Chair,Furniture,1.0,4824.79,4824.79,North
+2025-06-07,Pen Pack,Stationery,6.0,126.13,756.78,North
+2025-06-07,Headphones,Electronics,7.0,3744.29,26210.03,East
+2025-06-08,Pen Pack,Stationery,1.0,107.96,107.96,South
+2025-06-08,Backpack,Accessories,7.0,1893.94,13257.58,East
+2025-06-08,Pen Pack,Stationery,8.0,53.76,430.08,East
+2025-06-08,Notebook Set,Stationery,8.0,257.71,2061.68,West
+2025-06-10,Notebook Set,Stationery,1.0,268.76,268.76,South
+2025-06-11,Smartphone,Electronics,9.0,38771.94,348947.46,South
+2025-06-11,Desk,Furniture,6.0,5811.45,34868.7,West
+2025-06-11,Pen Pack,Stationery,10.0,55.36,553.6,East
+2025-06-13,Bookshelf,Furniture,7.0,2957.68,20703.76,East
+2025-06-14,Desk,Furniture,1.0,11355.56,11355.56,North
+2025-06-15,Office Chair,Furniture,2.0,5034.11,10068.22,West
+2025-06-15,Office Chair,Furniture,6.0,8711.16,52266.96,East
+2025-06-16,Laptop,Electronics,5.0,55753.9,278769.5,West
+2025-06-17,Office Chair,Furniture,8.0,5297.65,42381.2,West
+2025-06-17,Water Bottle,Accessories,6.0,265.0,1590.0,East
+2025-06-17,Laptop,Electronics,5.0,68506.44,342532.2,West
+2025-06-18,Headphones,Electronics,10.0,1011.34,10113.4,South
+2025-06-19,Backpack,Accessories,7.0,2429.39,17005.73,South
+2025-06-19,Headphones,Electronics,8.0,3593.14,28745.12,South
+2025-06-19,Smartphone,Electronics,9.0,20950.12,188551.08,West
+2025-06-20,Desk,Furniture,1.0,6482.65,6482.65,South
+2025-06-20,Water Bottle,Accessories,7.0,521.63,3651.41,East
+2025-06-21,Desk,Furniture,8.0,11923.7,95389.6,West
+2025-06-22,Laptop,Electronics,8.0,70528.59,564228.72,South
+2025-06-23,Water Bottle,Accessories,7.0,459.93,3219.51,East
+2025-06-23,Bookshelf,Furniture,1.0,3134.92,3134.92,
+2025-06-24,Water Bottle,Accessories,10.0,581.94,5819.4,West
+2025-06-24,Headphones,Electronics,6.0,2246.55,13479.3,East
+2025-06-25,Laptop,Electronics,1.0,47987.24,47987.24,West
+2025-06-26,Laptop,Electronics,8.0,48136.48,385091.84,West
+2025-06-26,Water Bottle,Accessories,5.0,455.58,2277.9,West
+2025-06-27,Backpack,Accessories,7.0,1924.59,13472.13,North
+2025-06-28,Notebook Set,Stationery,6.0,196.32,1177.92,North
+2025-06-28,Bookshelf,Furniture,8.0,4660.77,37286.16,East
+2025-06-28,Smartphone,Electronics,4.0,24238.18,96952.72,South
+2025-06-29,Headphones,Electronics,4.0,1411.22,5644.88,East
+2025-06-29,Backpack,Accessories,7.0,1955.18,13686.26,East
+2025-06-29,Desk,Furniture,4.0,6560.46,26241.84,South
+2025-07-03,Office Chair,Furniture,4.0,7168.13,28672.52,East
+2025-07-03,Bookshelf,Furniture,10.0,3425.82,34258.2,North
+2025-07-05,Notebook Set,Stationery,10.0,109.72,1097.2,South
+2025-07-05,Backpack,Accessories,5.0,925.0,4625.0,West
+2025-07-06,Notebook Set,Stationery,2.0,384.66,769.32,East
+2025-07-07,Bookshelf,Furniture,4.0,4101.43,16405.72,East
+2025-07-08,Bookshelf,Furniture,2.0,5929.64,11859.28,East
+2025-07-10,Headphones,Electronics,9.0,1239.92,11159.28,East
+2025-07-10,Desk,Furniture,7.0,7861.39,55029.73,East
+2025-07-11,Laptop,Electronics,10.0,64131.86,641318.6,West
+2025-07-11,Headphones,Electronics,9.0,4814.0,43326.0,North
+2025-07-12,Desk,Furniture,7.0,7555.11,52885.77,South
+2025-07-14,Pen Pack,Stationery,9.0,114.87,1033.83,East
+2025-07-15,Water Bottle,Accessories,8.0,411.65,3293.2,North
+2025-07-15,Laptop,Electronics,8.0,51673.01,413384.08,West
+2025-07-15,Water Bottle,Accessories,9.0,317.96,2861.64,West
+2025-07-16,Pen Pack,Stationery,2.0,73.72,147.44,East
+2025-07-16,Smartphone,Electronics,2.0,17580.04,35160.08,East
+2025-07-17,Smartphone,Electronics,6.0,20613.47,123680.82,East
+2025-07-17,Headphones,Electronics,8.0,4859.3,38874.4,South
+2025-07-19,Water Bottle,Accessories,1.0,542.69,542.69,West
+2025-07-19,Pen Pack,Stationery,1.0,113.57,113.57,East
+2025-07-19,Bookshelf,Furniture,7.0,5034.63,35242.41,West
+2025-07-19,Desk,Furniture,8.0,6996.74,55973.92,West
+2025-07-19,Bookshelf,Furniture,6.0,2872.93,17237.58,North
+2025-07-22,Bookshelf,Furniture,3.0,3516.58,10549.74,East
+2025-07-22,Pen Pack,Stationery,3.0,76.49,229.47,South
+2025-07-22,Laptop,Electronics,10.0,71492.92,714929.2,West
+2025-07-23,Pen Pack,Stationery,3.0,143.66,430.98,East
+2025-07-23,Office Chair,Furniture,9.0,5268.88,47419.92,East
+2025-07-23,Smartphone,Electronics,6.0,38982.44,233894.64,West
+2025-07-24,Notebook Set,Stationery,2.0,193.76,387.52,East
+2025-07-24,Bookshelf,Furniture,5.0,5525.24,27626.2,East
+2025-07-26,Backpack,Accessories,5.0,1981.0,9905.0,East
+2025-07-27,Headphones,Electronics,3.0,3561.92,10685.76,West
+2025-07-28,Pen Pack,Stationery,8.0,115.05,920.4,East
+2025-07-29,Pen Pack,Stationery,3.0,113.33,339.99,South
+2025-07-29,Headphones,Electronics,5.0,2505.84,12529.2,West
+2025-07-29,Headphones,Electronics,2.0,2877.96,5755.92,East
+2025-07-30,Office Chair,Furniture,5.0,4375.59,21877.95,North
+2025-07-30,Bookshelf,Furniture,4.0,5893.56,23574.24,East
+2025-07-31,Office Chair,Furniture,7.0,6260.01,43820.07,West
+2025-07-31,Desk,Furniture,5.0,5426.7,27133.5,South
+2025-08-01,Pen Pack,Stationery,8.0,66.73,533.84,North
+2025-08-01,Laptop,Electronics,7.0,60060.21,420421.47,South
+2025-08-01,Bookshelf,Furniture,9.0,3435.1,30915.9,North
+2025-08-01,Backpack,Accessories,8.0,2087.5,16700.0,South
+2025-08-03,Backpack,Accessories,9.0,2159.78,19438.02,South
+2025-08-06,Backpack,Accessories,6.0,1398.08,8388.48,West
+2025-08-08,Office Chair,Furniture,3.0,8351.81,25055.43,East
+2025-08-09,Pen Pack,Stationery,4.0,91.38,365.52,West
+2025-08-09,Headphones,Electronics,3.0,2520.83,7562.49,South
+2025-08-09,Headphones,Electronics,1.0,2233.03,2233.03,North
+2025-08-10,Headphones,Electronics,10.0,3642.69,36426.9,North
+2025-08-12,Water Bottle,Accessories,9.0,246.26,2216.34,South
+2025-08-12,Laptop,Electronics,8.0,72634.87,581078.96,East
+2025-08-13,Backpack,Accessories,9.0,1836.67,16530.03,East
+2025-08-13,Smartphone,Electronics,4.0,20246.95,80987.8,East
+2025-08-13,Backpack,Accessories,5.0,1839.85,9199.25,North
+2025-08-13,Smartphone,Electronics,8.0,32216.95,257735.6,West
+2025-08-14,Bookshelf,Furniture,7.0,5354.16,37479.12,South
+2025-08-14,Notebook Set,Stationery,6.0,392.12,2352.72,West
+2025-08-14,Backpack,Accessories,4.0,2482.62,9930.48,North
+2025-08-15,Notebook Set,Stationery,8.0,282.12,2256.96,West
+2025-08-15,Water Bottle,Accessories,9.0,370.7,3336.3,West
+2025-08-16,Headphones,Electronics,5.0,4613.7,23068.5,North
+2025-08-17,Bookshelf,Furniture,7.0,4120.72,28845.04,South
+2025-08-18,Notebook Set,Stationery,7.0,124.07,868.49,South
+2025-08-18,Office Chair,Furniture,9.0,4815.43,43338.87,West
+2025-08-18,Water Bottle,Accessories,8.0,432.9,3463.2,West
+2025-08-19,Water Bottle,Accessories,4.0,328.61,1314.44,West
+2025-08-19,Pen Pack,Stationery,9.0,84.45,760.05,South
+2025-08-19,Desk,Furniture,6.0,11035.4,66212.4,North
+2025-08-20,Headphones,Electronics,8.0,4989.05,39912.4,East
+2025-08-20,Backpack,Accessories,4.0,2407.21,9628.84,North
+2025-08-21,Smartphone,Electronics,4.0,31042.61,124170.44,North
+2025-08-21,Pen Pack,Stationery,6.0,108.2,649.2,North
+2025-08-22,Office Chair,Furniture,9.0,6156.09,55404.81,West
+2025-08-23,Bookshelf,Furniture,2.0,5284.87,10569.74,West
+2025-08-24,Backpack,Accessories,6.0,1728.66,10371.96,East
+2025-08-24,Backpack,Accessories,2.0,2454.3,4908.6,West
+2025-08-25,Office Chair,Furniture,8.0,7887.27,63098.16,North
+2025-08-25,Water Bottle,Accessories,9.0,581.69,5235.21,North
+2025-08-26,Laptop,Electronics,9.0,57380.32,516422.88,West
+2025-08-26,Office Chair,Furniture,6.0,6836.63,41019.78,East
+2025-08-27,Desk,Furniture,9.0,6105.83,54952.47,West
+2025-08-29,Pen Pack,Stationery,8.0,84.07,672.56,North
+2025-08-29,Backpack,Accessories,8.0,2357.32,18858.56,South
+2025-08-30,Headphones,Electronics,8.0,2794.41,22355.28,North
+2025-08-30,Laptop,Electronics,10.0,71527.05,715270.5,East
+2025-08-31,Smartphone,Electronics,10.0,38693.93,386939.3,West
+2025-08-31,Backpack,Accessories,8.0,1053.2,8425.6,South
+2025-09-01,Pen Pack,Stationery,6.0,101.32,607.92,North
+2025-09-02,Laptop,Electronics,6.0,53958.38,323750.28,West
+2025-09-02,Bookshelf,Furniture,4.0,2523.91,10095.64,West
+2025-09-03,Bookshelf,Furniture,3.0,5876.01,17628.03,East
+2025-09-04,Desk,Furniture,6.0,10629.63,63777.78,West
+2025-09-05,Smartphone,Electronics,6.0,21292.49,127754.94,South
+2025-09-05,Office Chair,Furniture,7.0,5135.89,35951.23,North
+2025-09-07,Office Chair,Furniture,5.0,5897.1,29485.5,North
+2025-09-07,Office Chair,Furniture,6.0,7888.08,47328.48,East
+2025-09-09,Smartphone,Electronics,10.0,30736.14,307361.4,North
+2025-09-09,Office Chair,Furniture,6.0,6541.71,39250.26,West
+2025-09-09,Pen Pack,Stationery,2.0,139.93,279.86,East
+2025-09-12,Backpack,Accessories,5.0,1891.24,9456.2,East
+2025-09-13,Desk,Furniture,8.0,5162.23,41297.84,West
+2025-09-14,Backpack,Accessories,6.0,922.53,5535.18,North
+2025-09-14,Headphones,Electronics,1.0,2802.09,2802.09,East
+2025-09-14,Laptop,Electronics,1.0,46167.42,46167.42,East
+2025-09-15,Water Bottle,Accessories,6.0,547.88,3287.28,West
+2025-09-16,Pen Pack,Stationery,4.0,71.51,286.04,East
+2025-09-17,Bookshelf,Furniture,1.0,5473.51,5473.51,West
+2025-09-17,Desk,Furniture,7.0,7283.28,50982.96,East
+2025-09-17,Backpack,Accessories,9.0,864.17,7777.53,East
+2025-09-18,Desk,Furniture,7.0,10843.07,75901.49,West
+2025-09-18,Pen Pack,Stationery,2.0,125.58,251.16,North
+2025-09-18,Bookshelf,Furniture,1.0,3769.09,3769.09,South
+2025-09-21,Laptop,Electronics,9.0,58859.29,529733.61,North
+2025-09-21,Backpack,Accessories,2.0,1342.5,2685.0,West
+2025-09-23,Pen Pack,Stationery,1.0,50.81,50.81,East
+2025-09-25,Notebook Set,Stationery,8.0,372.55,2980.4,East
+2025-09-26,Laptop,Electronics,2.0,73355.64,146711.28,North
+2025-09-26,Smartphone,Electronics,,36763.11,257341.77,East
+2025-09-26,Bookshelf,Furniture,2.0,5836.91,11673.82,North
+2025-09-28,Headphones,Electronics,4.0,4339.29,17357.16,North
+2025-09-29,Backpack,Accessories,5.0,2211.8,11059.0,East
+2025-09-29,Backpack,Accessories,4.0,2340.07,9360.28,East
+2025-10-01,Office Chair,Furniture,3.0,6042.43,18127.29,East
+2025-10-03,Headphones,Electronics,7.0,2814.58,19702.06,West
+2025-10-05,Pen Pack,Stationery,7.0,56.23,393.61,West
+2025-10-05,Laptop,Electronics,2.0,74584.12,149168.24,West
+2025-10-05,Laptop,Electronics,10.0,47052.62,470526.2,East
+2025-10-06,Laptop,Electronics,6.0,66049.03,396294.18,North
+2025-10-06,Pen Pack,Stationery,5.0,53.66,268.3,South
+2025-10-06,Bookshelf,Furniture,9.0,5379.14,48412.26,North
+2025-10-07,Laptop,Electronics,6.0,62475.29,374851.74,South
+2025-10-07,Desk,Furniture,6.0,5718.19,34309.14,East
+2025-10-08,Water Bottle,Accessories,9.0,369.3,3323.7,East
+2025-10-08,Laptop,Electronics,5.0,53607.41,268037.05,West
+2025-10-09,Backpack,Accessories,2.0,1773.61,3547.22,East
+2025-10-09,Desk,Furniture,10.0,9762.79,97627.9,North
+2025-10-10,Backpack,Accessories,7.0,1574.09,11018.63,East
+2025-10-10,Headphones,Electronics,10.0,4536.99,45369.9,North
+2025-10-10,Pen Pack,Stationery,1.0,113.67,113.67,South
+2025-10-11,Headphones,Electronics,4.0,2681.79,10727.16,West
+2025-10-12,Headphones,Electronics,8.0,2155.34,17242.72,South
+2025-10-13,Bookshelf,Furniture,2.0,5267.39,10534.78,North
+2025-10-13,Desk,Furniture,4.0,11590.4,46361.6,East
+2025-10-13,Backpack,Accessories,3.0,1460.31,4380.93,East
+2025-10-13,Bookshelf,Furniture,3.0,3196.7,9590.1,West
+2025-10-14,Notebook Set,Stationery,10.0,324.84,3248.4,South
+2025-10-14,Desk,Furniture,5.0,5853.12,29265.6,West
+2025-10-15,Laptop,Electronics,2.0,47257.32,94514.64,South
+2025-10-15,Water Bottle,Accessories,10.0,469.99,4699.9,North
+2025-10-15,Backpack,Accessories,5.0,2069.92,10349.6,West
+2025-10-15,Backpack,Accessories,8.0,1495.53,11964.24,West
+2025-10-16,Notebook Set,Stationery,6.0,389.72,2338.32,West
+2025-10-16,Laptop,Electronics,1.0,47436.69,47436.69,East
+2025-10-16,Laptop,Electronics,9.0,58871.35,529842.15,East
+2025-10-17,Notebook Set,Stationery,2.0,142.56,285.12,North
+2025-10-17,Office Chair,Furniture,4.0,5149.86,20599.44,North
+2025-10-17,Smartphone,Electronics,9.0,37978.81,341809.29,South
+2025-10-18,Water Bottle,Accessories,2.0,553.34,1106.68,South
+2025-10-18,Notebook Set,Stationery,9.0,199.52,1795.68,South
+2025-10-19,Office Chair,Furniture,8.0,6528.53,52228.24,East
+2025-10-20,Backpack,Accessories,3.0,1965.04,5895.12,South
+2025-10-21,Headphones,Electronics,9.0,2467.8,22210.2,East
+2025-10-21,Backpack,Accessories,3.0,1079.71,3239.13,West
+2025-10-22,Notebook Set,Stationery,7.0,382.44,2677.08,South
+2025-10-22,Bookshelf,Furniture,10.0,4592.71,45927.1,East
+2025-10-22,Desk,Furniture,5.0,5153.58,25767.9,West
+2025-10-22,Smartphone,Electronics,3.0,39309.49,117928.47,North
+2025-10-22,Notebook Set,Stationery,10.0,221.33,2213.3,West
+2025-10-22,Notebook Set,Stationery,7.0,155.73,1090.11,South
+2025-10-23,Backpack,Accessories,4.0,1063.04,4252.16,West
+2025-10-23,Office Chair,Furniture,2.0,3752.03,7504.06,South
+2025-10-24,Water Bottle,Accessories,1.0,447.75,447.75,West
+2025-10-24,Smartphone,Electronics,1.0,25592.43,25592.43,North
+2025-10-24,Water Bottle,Accessories,6.0,386.0,2316.0,West
+2025-10-24,Backpack,Accessories,1.0,2071.56,2071.56,North
+2025-10-26,Notebook Set,Stationery,6.0,165.8,994.8,South
+2025-10-26,Water Bottle,Accessories,1.0,304.62,304.62,East
+2025-10-27,Notebook Set,Stationery,8.0,390.72,3125.76,West
+2025-10-27,Notebook Set,Stationery,6.0,132.5,795.0,South
+2025-10-28,Headphones,Electronics,7.0,3619.69,25337.83,West
+2025-10-29,Backpack,Accessories,4.0,1800.35,7201.4,North
+2025-10-29,Notebook Set,Stationery,5.0,270.59,1352.95,North
+2025-10-29,Bookshelf,Furniture,1.0,3109.86,3109.86,North
+2025-10-30,Notebook Set,Stationery,1.0,108.94,108.94,South
+2025-10-31,Water Bottle,Accessories,3.0,268.48,805.44,East
+2025-10-31,Backpack,Accessories,3.0,1958.91,5876.73,North
+2025-10-31,Bookshelf,Furniture,9.0,5399.01,48591.09,West
+2025-10-31,Notebook Set,Stationery,7.0,101.34,709.38,South
+2025-10-31,Water Bottle,Accessories,1.0,233.58,233.58,West
+2025-11-01,Smartphone,Electronics,4.0,25094.39,100377.56,South
+2025-11-01,Laptop,Electronics,8.0,62933.55,503468.4,North
+2025-11-02,Backpack,Accessories,1.0,1874.32,1874.32,South
+2025-11-02,Notebook Set,Stationery,10.0,217.76,2177.6,North
+2025-11-02,Backpack,Accessories,3.0,1350.21,4050.63,East
+2025-11-02,Water Bottle,Accessories,6.0,545.49,3272.94,North
+2025-11-03,Bookshelf,Furniture,8.0,2568.17,20545.36,East
+2025-11-03,Laptop,Electronics,7.0,67036.02,469252.14,East
+2025-11-03,Backpack,Accessories,3.0,2268.85,6806.55,East
+2025-11-07,Bookshelf,Furniture,4.0,4728.16,18912.64,East
+2025-11-07,Pen Pack,Stationery,5.0,127.57,637.85,South
+2025-11-08,Desk,Furniture,1.0,6262.91,6262.91,East
+2025-11-08,Headphones,Electronics,2.0,1504.77,3009.54,East
+2025-11-09,Smartphone,Electronics,4.0,30637.88,122551.52,East
+2025-11-09,Office Chair,Furniture,2.0,6994.72,13989.44,West
+2025-11-09,Headphones,Electronics,8.0,2404.75,19238.0,South
+2025-11-09,Pen Pack,Stationery,4.0,145.73,582.92,East
+2025-11-09,Smartphone,Electronics,8.0,25361.03,202888.24,South
+2025-11-11,Notebook Set,Stationery,5.0,291.84,1459.2,North
+2025-11-11,Laptop,Electronics,4.0,51182.45,204729.8,North
+2025-11-11,Water Bottle,Accessories,2.0,468.84,937.68,East
+2025-11-12,Notebook Set,Stationery,5.0,109.81,549.05,East
+2025-11-12,Backpack,Accessories,8.0,1590.29,12722.32,East
+2025-11-13,Desk,Furniture,4.0,9991.76,39967.04,North
+2025-11-13,Headphones,Electronics,10.0,2506.88,25068.8,South
+2025-11-14,Office Chair,Furniture,8.0,8520.56,68164.48,South
+2025-11-14,Backpack,Accessories,5.0,2185.86,10929.3,East
+2025-11-16,Bookshelf,Furniture,2.0,5019.14,10038.28,East
+2025-11-17,Water Bottle,Accessories,4.0,370.06,1480.24,South
+2025-11-17,Desk,Furniture,9.0,9262.79,83365.11,South
+2025-11-17,Pen Pack,Stationery,1.0,70.36,70.36,South
+2025-11-17,Pen Pack,Stationery,10.0,111.67,1116.7,West
+2025-11-17,Notebook Set,Stationery,9.0,248.69,2238.21,East
+2025-11-18,Notebook Set,Stationery,7.0,235.6,1649.2,North
+2025-11-18,Headphones,Electronics,7.0,3464.3,24250.1,West
+2025-11-23,Desk,Furniture,9.0,8392.18,75529.62,South
+2025-11-23,Pen Pack,Stationery,2.0,137.27,274.54,East
+2025-11-24,Smartphone,Electronics,1.0,33538.76,33538.76,South
+2025-11-24,Water Bottle,Accessories,8.0,225.12,1800.96,West
+2025-11-24,Backpack,Accessories,4.0,1963.84,7855.36,North
+2025-11-25,Pen Pack,Stationery,6.0,105.45,632.7,North
+2025-11-25,Notebook Set,Stationery,6.0,397.86,2387.16,West
+2025-11-25,Headphones,Electronics,2.0,3122.03,6244.06,North
+2025-11-26,Notebook Set,Stationery,9.0,195.62,1760.58,West
+2025-11-28,Headphones,Electronics,8.0,4730.61,37844.88,East
+2025-11-28,Headphones,Electronics,5.0,4306.52,21532.6,North
+2025-11-29,Backpack,Accessories,7.0,1174.75,8223.25,East
+2025-11-29,Desk,Furniture,4.0,11723.64,46894.56,North
+2025-11-30,Office Chair,Furniture,10.0,5791.23,57912.3,North
+2025-11-30,Water Bottle,Accessories,4.0,414.06,1656.24,North
+2025-12-01,Bookshelf,Furniture,2.0,3124.66,6249.32,West
+2025-12-01,Office Chair,Furniture,5.0,8311.45,41557.25,North
+2025-12-01,Laptop,Electronics,2.0,57158.35,114316.7,West
+2025-12-02,Notebook Set,Stationery,3.0,278.51,835.53,North
+2025-12-02,Laptop,Electronics,2.0,68352.61,136705.22,South
+2025-12-03,Water Bottle,Accessories,10.0,409.11,4091.1,East
+2025-12-04,Backpack,Accessories,5.0,1578.67,7893.35,North
+2025-12-04,Notebook Set,Stationery,6.0,227.07,1362.42,West
+2025-12-04,Pen Pack,Stationery,1.0,50.66,50.66,West
+2025-12-04,Smartphone,Electronics,5.0,27886.3,139431.5,East
+2025-12-05,Smartphone,Electronics,3.0,20996.63,62989.89,North
+2025-12-05,Desk,Furniture,5.0,8121.41,40607.05,West
+2025-12-05,Laptop,Electronics,3.0,45445.81,136337.43,South
+2025-12-06,Pen Pack,Stationery,9.0,87.68,789.12,South
+2025-12-06,Notebook Set,Stationery,9.0,111.01,999.09,North
+2025-12-07,Desk,Furniture,6.0,11675.15,70050.9,West
+2025-12-08,Backpack,Accessories,5.0,2383.99,11919.95,North
+2025-12-08,Bookshelf,Furniture,2.0,4424.99,8849.98,East
+2025-12-10,Bookshelf,Furniture,8.0,5648.65,45189.2,West
+2025-12-10,Desk,Furniture,8.0,7213.24,57705.92,North
+2025-12-10,Smartphone,Electronics,7.0,23839.95,166879.65,West
+2025-12-10,Pen Pack,Stationery,9.0,146.59,1319.31,East
+2025-12-11,Desk,Furniture,10.0,5281.62,52816.2,South
+2025-12-11,Water Bottle,Accessories,10.0,215.82,2158.2,North
+2025-12-12,Office Chair,Furniture,,6102.52,54922.68,South
+2025-12-12,Backpack,Accessories,7.0,2422.04,16954.28,West
+2025-12-13,Headphones,Electronics,4.0,3063.98,12255.92,South
+2025-12-13,Headphones,Electronics,10.0,3276.42,32764.2,West
+2025-12-14,Headphones,Electronics,2.0,4613.61,9227.22,North
+2025-12-14,Pen Pack,Stationery,6.0,87.2,523.2,North
+2025-12-14,Water Bottle,Accessories,1.0,515.69,515.69,East
+2025-12-15,Smartphone,Electronics,9.0,33771.94,303947.46,East
+2025-12-15,Water Bottle,Accessories,10.0,329.28,3292.8,East
+2025-12-17,Pen Pack,Stationery,8.0,113.17,905.36,South
+2025-12-17,Desk,Furniture,9.0,8944.57,80501.13,North
+2025-12-17,Water Bottle,Accessories,2.0,518.49,1036.98,North
+2025-12-19,Smartphone,Electronics,9.0,33636.41,302727.69,East
+2025-12-19,Laptop,Electronics,3.0,58188.16,174564.48,West
+2025-12-19,Laptop,Electronics,10.0,59237.71,592377.1,South
+2025-12-20,Pen Pack,Stationery,8.0,94.82,758.56,North
+2025-12-20,Smartphone,Electronics,5.0,24188.6,120943.0,South
+2025-12-20,Desk,Furniture,8.0,10917.13,87337.04,South
+2025-12-21,Office Chair,Furniture,1.0,7172.82,7172.82,West
+2025-12-21,Pen Pack,Stationery,6.0,142.43,854.58,East
+2025-12-22,Pen Pack,Stationery,4.0,62.26,249.04,North
+2025-12-22,Headphones,Electronics,9.0,2553.85,22984.65,South
+2025-12-23,Notebook Set,Stationery,8.0,219.9,1759.2,South
+2025-12-25,Office Chair,Furniture,7.0,7105.17,49736.19,North
+2025-12-25,Desk,Furniture,7.0,5816.73,40717.11,North
+2025-12-25,Desk,Furniture,6.0,6174.52,37047.12,North
+2025-12-26,Headphones,Electronics,4.0,1584.97,6339.88,East
+2025-12-26,Pen Pack,Stationery,2.0,118.74,237.48,East
+2025-12-28,Office Chair,Furniture,2.0,5781.77,11563.54,East
+2025-12-29,Headphones,Electronics,7.0,1704.55,11931.85,East
+2025-12-29,Water Bottle,Accessories,5.0,389.96,1949.8,North
+2025-12-30,Water Bottle,Accessories,7.0,266.39,1864.73,South
+2025-12-30,Headphones,Electronics,5.0,3203.36,16016.8,West
+2025-12-31,Backpack,Accessories,2.0,1284.61,2569.22,South
+2025-12-31,Notebook Set,Stationery,2.0,189.78,379.56,South
+2025-10-22,Notebook Set,Stationery,10.0,221.33,2213.3,West
